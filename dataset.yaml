@@ -1,0 +1,5 @@
+path: ../Projet_Localisation_des_Signatures/Dataset 
+train: images/train
+val: images/val
+names:
+  0: signature
